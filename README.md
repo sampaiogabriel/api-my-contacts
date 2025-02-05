@@ -94,12 +94,6 @@ Uma API RESTful desenvolvida em **Node.js** e **Express** para gerenciar contato
 ### 🔹 Excluir contato  
 - **DELETE** `/contacts/:id`  
 
-## 🛠 Próximos Passos  
-
-- 🔹 Implementação de autenticação (JWT)  
-- 🔹 Paginação na listagem de contatos  
-- 🔹 Testes automatizados  
-
 ## 📝 Licença  
 
 Este projeto está sob a licença **MIT**.  
